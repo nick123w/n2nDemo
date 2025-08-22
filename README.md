@@ -8,5 +8,5 @@
 ## 如何開啟
 1. 下載專案
    ```bash
-   git clone https://github.com/nick/n2nDemo.git
+   git clone https://github.com/nick123w/n2nDemo.git
    cd <n2nDemo>
