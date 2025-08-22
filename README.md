@@ -9,4 +9,4 @@
 1. 下載專案
    ```bash
    git clone https://github.com/nick/n2nDemo.git
-   cd <你的專案名稱>
+   cd <n2nDemo>
